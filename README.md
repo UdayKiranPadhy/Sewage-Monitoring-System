@@ -17,7 +17,7 @@ Over flow of sewage on roads is been a major problem in many developed and under
 In the method proposed, development of IoT based sewage level maintenance is designed, where the sewage level is monitored using an Ultra Sonic Sensor. The Ultra Sonic Sensor keeps on monitoring the level of the sewage. As the level changes, the Ultra Sonic sensor detects and send the signal to the Respective associated Node where the controller commands the IoT network to generate alert complaints to the municipal and corporation departments in prior to overflow. The complaints will be repeatedly registered until the level reaches the minimum set. The communication is done based on IoT where the complaints are auto registered and the entire system is controlled using an ARDUINO microcontroller.
 
 
-![Communication Topology](https://raw.githubusercontent.com/UdayKiranPadhy/Sewage-Monitoring-System/master/CommunicationTopology.jpg)
+![Sim808 Connections](https://raw.githubusercontent.com/UdayKiranPadhy/Soldier-Strap/master/SIM808%20Code%20From%20YT/sim808_2_ok.jpg)
 
 ### Communication Topology
 The types of network topology that can be used are port to port topology, star, tree, mesh, ring bus and fully connected topology. The design caries port to port topology, where Switched point-to-point topologies are the basic model of conventional telephony.
